@@ -2022,6 +2022,10 @@ section {
 .carrosRecentes.cats .cr-col .img-cr{
     height: auto;
 }
+.slide-destaque .slide .col-3{
+    display: flex;
+    width: 100%;}
+     
 }
 @media (max-width:880px) {
     .departamento .dep-linha {
